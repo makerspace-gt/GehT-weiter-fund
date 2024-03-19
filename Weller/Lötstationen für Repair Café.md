@@ -19,7 +19,7 @@ Darüber hinaus engagiert sich Weller für den Schutz der Umwelt und den schonen
 
 Als Gegenleistung für eine Spende an den Makerspace Gütersloh, können wir uns auf verschiedenen Wegen erkenntlich zeigen.
 Zum einen listen wir unterstützende Institutionen auf unserer Website (<https://makerspace-gt.de/unterstuetzende/>) auf, zum anderen sind wir als gemeinnütziger Verein berechtigt, Spendenbescheinigungen auszustellen, sodass Sach- und Geldspenden steuerlich geltend gemacht werden können.
-Nicht zuletzt ist die Präsenz des Würth Werkzeugs bei jedem Repair Café sichtbar und wird von 20 bis 30  Gästen pro Termin wahrgenommen. Wenn kein Repair Café stattfindet, steht der Werkzeugwagen für alle sichtbar in einem öffentlichen Bereich der Stadtbibliothek.
+Nicht zuletzt ist die Präsenz der Weller Lötstation bei jedem Repair Café sichtbar und wird von 20 bis 30  Gästen pro Termin wahrgenommen.
 
 Für Rückfragen und weitere Erläuterungen stehe ich gerne zur Verfügung.
 

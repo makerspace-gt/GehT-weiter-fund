@@ -25,3 +25,5 @@ c/o Die WEBEREI – Bürgerkiez gGmbH \
 Bogenstraße 1-8 \
 33330 Gütersloh \
 Weitere Informationen unter <https://makerspace-gt.de>
+
+![](2019-03-02%20Repair%20Café%20(17).jpg)

@@ -19,7 +19,7 @@ Als Gegenleistung können wir uns auf verschiedene Weise erkenntlich zeigen.
 Zum einen listen wir unterstützende Institutionen auf unserer Website (https://makerspace-gt.de/unterstuetzende/) auf, zum anderen sind wir als gemeinnütziger Verein berechtigt, Spendenbescheinigungen auszustellen, sodass Sach- und Geldspenden steuerlich geltend gemacht werden können.
 Nicht zuletzt ist die Präsenz des Werkzeugs bei jedem Repair Café sichtbar und wird von 20 bis 30  Gästen pro Termin wahrgenommen. Wenn kein Repair Café stattfindet, steht der es für alle sichtbar, anstelle eines der bisherigen orangen Werkstattwagen, in einem öffentlichen Bereich der Stadtbibliothek.
 
-Rundum bestimmt ein ein guter Beitrag für eure Tool Rebel Stories (https://www-de.wera.de/de/unternehmen/tool-rebels/) und unsere Website (https://makerspace-gt.de/aktuelles/).
+Rundum bestimmt ein guter Beitrag für eure Tool Rebel Stories (https://www-de.wera.de/de/unternehmen/tool-rebels/) und unsere Website (https://makerspace-gt.de/aktuelles/).
 
 Für Rückfragen und weitere Erläuterungen stehe ich gerne zur Verfügung.
 

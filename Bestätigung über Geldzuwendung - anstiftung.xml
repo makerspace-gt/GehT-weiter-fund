@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-data xmlns="http://www.lucom.com/ffw/xml-data-1.0.xsd">
+	<form>catalog://Steuerformulare/gemein/034122</form>
+	<instance>
+		<datarow>
+			<element id="ID_USER">.anonymous</element>
+			<element id="aussteller">Makerspace Gütersloh e.V.
+Bogenstraße 1-8
+33330 Gütersloh</element>
+			<element id="name">anstiftung
+Daiserstraße 15
+81371 München</element>
+			<element id="wert">3.000.- Euro</element>
+			<element id="wert2">dreitausend Euro</element>
+			<element id="datum">02.04.2025 00:00:00</element>
+			<element id="k1">false</element>
+			<element id="k2">true</element>
+			<element id="k3">true</element>
+			<element id="k4">false</element>
+			<element id="zwecke">investiver Maßnahmen im Rahmen der Förderung "Reparieren statt Wegwerfen" des BMUV zur Förderung von Volks- und Berufsbildung einschließlich der Studentenhilfe</element>
+			<element id="k5">true</element>
+			<element id="finamt">Gütersloh</element>
+			<element id="stnr">351/5913/8437</element>
+			<element id="datum2">13.07.2020 00:00:00</element>
+			<element id="ort_datum">Gütersloh, 11. Mai 2025, Michael Prange</element>
+			<element id="zwecke2b">- Förderung von Wissenschaft und Forschung
+- Förderung von Volks- und Berufsbildung einschließlich der Studentenhilfe
+- Förderung von Kunst und Kultur</element>
+			<element id="zeitraum">2018</element>
+		</datarow>
+	</instance>
+</xml-data>
+

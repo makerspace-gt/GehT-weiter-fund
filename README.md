@@ -6,22 +6,22 @@ Wir wollen die Werkzeugausstattung für unser Repair Café verbessern. Anfangs h
 
 ## Kostenplan
 
-| Investive Maßnahme                                                       |                |
-| :----------------------------------------------------------------------- | -------------: |
-| Allgemeines (Spendendose, Flyer, Sticker, Handy, Beschriftungsgerät)     |       364,10 € |
-| Kleber (detaillierte Aufstellung vorhanden)                              |        37,45 € |
-| Messwerkzeuge (detaillierte Aufstellung vorhanden)                       |        48,56 € |
-| Elektronikwerkzeuge (detaillierte Aufstellung vorhanden)                 |     1.220,85 € |
-| Textilwerkzeuge (detaillierte Aufstellung vorhanden)                     |        47,84 € |
-| Fahrradwerkzeuge (detaillierte Aufstellung vorhanden)                    |       129,61 € |
-| allgemeine mechanische Werkzeuge (detaillierte Aufstellung vorhanden)    |     1.136,24 € |
-| Action Cam zur Dokumentation                                             |        78,98 € |
-| diverse Reinigungsmittel (detaillierte Aufstellung vorhanden)            |       111,77 € |
-|                                                                          | **3.175,40 €** |
-|                                                                          |                |
-| Kosten gesamt                                                            | **3.175,40 €** |
-|                                                                          |                |
-| Maximaler Förderbetrag                                                   |     3.000,00 € |
+| Investive Maßnahme                                                    |                |
+| :-------------------------------------------------------------------- | -------------: |
+| Allgemeines (Spendendose, Flyer, Sticker, Handy, Beschriftungsgerät)  |       364,10 € |
+| Kleber (detaillierte Aufstellung vorhanden)                           |        37,45 € |
+| Messwerkzeuge (detaillierte Aufstellung vorhanden)                    |        48,56 € |
+| Elektronikwerkzeuge (detaillierte Aufstellung vorhanden)              |     1.220,85 € |
+| Textilwerkzeuge (detaillierte Aufstellung vorhanden)                  |        47,84 € |
+| Fahrradwerkzeuge (detaillierte Aufstellung vorhanden)                 |       129,61 € |
+| allgemeine mechanische Werkzeuge (detaillierte Aufstellung vorhanden) |     1.136,24 € |
+| Action Cam zur Dokumentation                                          |        78,98 € |
+| diverse Reinigungsmittel (detaillierte Aufstellung vorhanden)         |       111,77 € |
+|                                                                       | **3.175,40 €** |
+|                                                                       |                |
+| Kosten gesamt                                                         | **3.175,40 €** |
+|                                                                       |                |
+| Maximaler Förderbetrag                                                |     3.000,00 € |
 
 ## Einverständniserklärungen
 

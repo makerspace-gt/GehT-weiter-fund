@@ -25,12 +25,10 @@ Wir wollen die Werkzeugausstattung für unser Repair Café verbessern. Anfangs h
 
 ## Einverständniserklärungen
 
-Bestätigt: "Mit der zu bewilligende Maßnahme wurde noch nicht begonnen und wird auch nicht vor Erhalt des Bewilligungsbescheides begonnen."
-
-Bestätigt: "Die zugrundeliegende Förderrichtlinie habe ich/haben wir zur Kenntnis genommen."
-
-Bestätigt: "Mit der Einreichung erkläre ich mein Einverständnis, dass vorstehende Daten erhoben und elektronisch gespeichert werden, sowie das Einverständnis betroffener Dritter dazu eingeholt zu haben.  
-*Die Erhebung, Verarbeitung und Nutzung vorstehender personenbezogener Daten sind nur zulässig, wenn der Betroffene (Antragsteller) eingewilligt hat. Für den Fall, dass hierzu die Einwilligung verweigert wird, kann der Antrag nicht bearbeitet und die beantragte Förderung damit nicht bewilligt werden."*
+- [x] Mit der zu bewilligende Maßnahme wurde noch nicht begonnen und wird auch nicht vor Erhalt des Bewilligungsbescheides begonnen.
+- [x] Die zugrundeliegende Förderrichtlinie habe ich/haben wir zur Kenntnis genommen.
+- [x] Mit der Einreichung erkläre ich mein Einverständnis, dass vorstehende Daten erhoben und elektronisch gespeichert werden, sowie das Einverständnis betroffener Dritter dazu eingeholt zu haben.  
+      *Die Erhebung, Verarbeitung und Nutzung vorstehender personenbezogener Daten sind nur zulässig, wenn der Betroffene (Antragsteller) eingewilligt hat. Für den Fall, dass hierzu die Einwilligung verweigert wird, kann der Antrag nicht bearbeitet und die beantragte Förderung damit nicht bewilligt werden.*
 
 # Verwendungsnachweis für Förderantrag
 
@@ -185,36 +183,40 @@ Der Sachbericht ist ein von euch zu erstellender Text von minimal 250 und maxima
 Inwiefern wurde die angedachte Wirkung/das Resultat des Projektes erreicht?  
 Wie sehr treffen die folgenden Aussagen zu:
 
-- Durch die Förderung können/konnten wir Anschaffungen tätigen, die unser Spektrum an Reparier-Angeboten erweitern
-  - [ ] trifft voll zu
-  - [x] trifft eher zu
-  - [ ] trifft eher nicht zu
-  - [ ] trifft überhaupt nicht zu
-  - [ ] keine Angabe
-- Durch die Förderung können/konnten wir Fähigkeiten und Kompetenzen erwerben oder ausbauen, die unser Spektrum an Reparier-Angeboten erweitern
-  - [ ] trifft voll zu
-  - [ ] trifft eher zu
-  - [ ] trifft eher nicht zu
-  - [ ] trifft überhaupt nicht zu
-  - [x] keine Angabe
-- Durch die Förderung können/konnten wir mehr Veranstaltungen verwirklichen
-  - [x] trifft voll zu
-  - [ ] trifft eher zu
-  - [ ] trifft eher nicht zu
-  - [ ] trifft überhaupt nicht zu
-  - [ ] keine Angabe
-- Es kommen seitdem mehr Menschen zu den Veranstaltungen
-  - [ ] trifft voll zu
-  - [ ] trifft eher zu
-  - [ ] trifft eher nicht zu
-  - [ ] trifft überhaupt nicht zu
-  - [x] keine Angabe
-- Die Förderung trägt dazu bei, unsere Reparatur-Initiative/Selbsthilfewerkstatt zu sichern/zu verstetigen
-  - [x] trifft voll zu
-  - [ ] trifft eher zu
-  - [ ] trifft eher nicht zu
-  - [ ] trifft überhaupt nicht zu
-  - [ ] keine Angabe
+### Durch die Förderung können/konnten wir Anschaffungen tätigen, die unser Spektrum an Reparier-Angeboten erweitern
+- [ ] trifft voll zu
+- [x] trifft eher zu
+- [ ] trifft eher nicht zu
+- [ ] trifft überhaupt nicht zu
+- [ ] keine Angabe
+
+### Durch die Förderung können/konnten wir Fähigkeiten und Kompetenzen erwerben oder ausbauen, die unser Spektrum an Reparier-Angeboten erweitern
+- [ ] trifft voll zu
+- [ ] trifft eher zu
+- [ ] trifft eher nicht zu
+- [ ] trifft überhaupt nicht zu
+- [x] keine Angabe
+
+### Durch die Förderung können/konnten wir mehr Veranstaltungen verwirklichen
+- [x] trifft voll zu
+- [ ] trifft eher zu
+- [ ] trifft eher nicht zu
+- [ ] trifft überhaupt nicht zu
+- [ ] keine Angabe
+
+### Es kommen seitdem mehr Menschen zu den Veranstaltungen
+- [ ] trifft voll zu
+- [ ] trifft eher zu
+- [ ] trifft eher nicht zu
+- [ ] trifft überhaupt nicht zu
+- [x] keine Angabe
+
+### Die Förderung trägt dazu bei, unsere Reparatur-Initiative/Selbsthilfewerkstatt zu sichern/zu verstetigen
+- [x] trifft voll zu
+- [ ] trifft eher zu
+- [ ] trifft eher nicht zu
+- [ ] trifft überhaupt nicht zu
+- [ ] keine Angabe
 
 ### Welche Reparaturen können jetzt begleitet werden, die früher nicht möglich waren, z.B. nach Qualifikationen, Fortbildungen oder durch neue Geräte? Nenne bitte Beispiele und ordne sie nach Fachbereichen (wie Tischlerei, Elektronik, Schneiderhandwerk, Leder oder IT) oder nach speziellen Tätigkeiten
 (50 bis 500 Zeichen)
@@ -222,12 +224,12 @@ Wie sehr treffen die folgenden Aussagen zu:
 Der Fokus unseres Projekts lag auf dem Aufbau einer soliden Grundausstattung, nicht auf der Erschließung neuer Bereiche.  
 Dennoch sind zusätzliche Reparaturen möglich: Das Punktschweißen von Akkus und kleinen Blechteilen, das Verbinden von Blech- und Kunststoffteilen mit Blindnieten, die Demontage von Getrieben und Motoren mit Abziehern (z.B. bei Staubsaugern) zur Reinigung oder zum Lagertausch, Fahrradreparaturen sowie die Videodokumentation von Geräteöffnungen und Reparaturen.
 
-- Wie zufrieden wart ihr mit der Durchführung des Förderprogramms?
-  - [ ] trifft voll zu
-  - [x] trifft eher zu
-  - [ ] trifft eher nicht zu
-  - [ ] trifft überhaupt nicht zu
-  - [ ] keine Angabe
+### Wie zufrieden wart ihr mit der Durchführung des Förderprogramms?
+- [ ] trifft voll zu
+- [x] trifft eher zu
+- [ ] trifft eher nicht zu
+- [ ] trifft überhaupt nicht zu
+- [ ] keine Angabe
 
 ### Wenn du uns noch etwas mitteilen möchtest... (optional)
 (max. 1500 Zeichen)

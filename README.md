@@ -234,6 +234,12 @@ Dennoch sind zusätzliche Reparaturen möglich: Das Punktschweißen von Akkus un
 ### Wenn du uns noch etwas mitteilen möchtest... (optional)
 (max. 1500 Zeichen)
 
+Das "Förderportal" ist hinsichtlich der User-Experience gewöhnungsbedürftig, unterscheidet sich darin jedoch nicht wesentlich von anderen Förderportalen.
+Bei dieser Förderung gab es jedoch viele Posten (über 100) einzutragen. Da dies aufwendig war, haben wir nicht alle Posten eingetragen, die über die Fördersumme hinausgehen.
+Auf der Seite zum Verwendungsnachweis (https://www.reparatur-initiativen.de/seite/verwendungsnachweis) steht: "Es ist nicht möglich, eine Excel-Liste hochzuladen". Das lässt darauf schließen, dass euch diese Schwäche bewusst ist.
+
+Für diese bisher einmalige Förderung ist das durchaus akzeptabel, ich würde mir jedoch wünschen, dass es einen "Laufzettel-Upload" gibt, da wir unsere Termine in einem anderen System pflegen und bisher keine einfache Möglichkeit haben, diese in eure Statistik zu übertragen.
+
 ## PR-Material hochladen (optional)
 
 Hier kannst du zusätzliches PR-Material hochladen. Maximal fünf Dateien können hochgeladen werden.

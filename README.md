@@ -244,6 +244,12 @@ Für diese bisher einmalige Förderung ist das durchaus akzeptabel, ich würde m
 
 Hier kannst du zusätzliches PR-Material hochladen. Maximal fünf Dateien können hochgeladen werden.
 
+[Faltflyer_1d15a9121f.pdf](./PR-Material/Faltflyer.pdf)  
+![](./PR-Material/Faltflyer-fs.jpg)  
+![](./PR-Material/Faltflyer-rs.jpg)
+
+[Plakette_fa2ff88d3c.jpg](./PR-Material/Plakette.jpg)  
+![](./PR-Material/Plakette.jpg)
 
 ## Bestätigungen
 

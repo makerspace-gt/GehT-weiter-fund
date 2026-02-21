@@ -251,6 +251,9 @@ Hier kannst du zusätzliches PR-Material hochladen. Maximal fünf Dateien könne
 [Plakette_fa2ff88d3c.jpg](./PR-Material/Plakette.jpg)  
 ![](./PR-Material/Plakette.jpg)
 
+[Defekt-vorschau_fe85b8e0b0.jpg](./PR-Material/Defekt_vorschau.jpg)
+![](./PR-Material/Defekt_vorschau.jpg)
+
 ## Bestätigungen
 
 - [x] Hiermit bestätige ich die Richtigkeit der oben gemachten Angaben.

@@ -37,6 +37,13 @@ Wir wollen die Werkzeugausstattung für unser Repair Café verbessern. Anfangs h
 
 Der Sachbericht ist ein von euch zu erstellender Text von minimal 250 und maximal 1500 Zeichen Länge. Bitte beschreibt, wie die Umsetzung des im Antrag formulierten Projektes verlaufen ist. Als inhaltliche Anregung orientiert euch gerne an den Fragen des Mini-Fragebogens.
 
+---
+
+Das Ziel des Projekts, die Ausstattung für das Repair Café dauerhaft am Veranstaltungsort bereitzustellen, um mehr Zeit für die eigentlichen Reparaturen zu haben und die Organisation zu entlasten, wurde durch einen umfangreichen Einkauf im April sowie durch mehrere unterjährige Einkäufe erreicht. Die Flyer und Sticker wurden erst 2026 bestellt und sind daher nicht mehr Teil der Förderung, stehen jedoch als Inspiration im Anhang zur Verfügung.
+Weiterhin haben wir rollbare Regale mit Werkzeugwänden gebaut. Ursprünglich sollten sie mit IKEA SKÅDIS Lochplatten ausgestattet werden, wir haben uns dann aber doch für ein 3D-gedrucktes Multiboard entschieden, da dies flexibler ist. Eine endgültige, übersichtliche Aufbewahrung der Werkzeuge und eine vollständige Inventarisierung stehen noch aus und werden eventuell nie abgeschlossen sein, da stets neue Werkzeuge hinzukommen. In unserem Forum veröffentlichen wir jedes Mal ein kurzes Résumé, in dem die Statistik sowie das noch fehlende Werkzeug aufgeführt werden (https://forum.makerspace-gt.de/t/repair-cafe-re-su-me).
+Insgesamt hat das Projekt die Abläufe deutlich vereinfacht. Der Auf- und Abbau benötigt vor Ort nun nur noch wenige Minuten. Dies hat die Motivation der Helfer*innen gesteigert und trägt wesentlich dazu bei, das Repair Café langfristig zu sichern und zu verstetigen. Seit Juli 2025 können wir daher zwei Veranstaltungen pro Monat anbieten.
+Es GehT weiter!
+
 ## Belegliste
 
 | Ausgabenbereich    | Zahlungsgrund/Gegenstand/Maßnahme                     | Zahlungsempfänger*in                                 | Belegart               | Zahlungsdatum | Belegnummer |    Summe |
